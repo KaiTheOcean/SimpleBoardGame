@@ -1,0 +1,15 @@
+/Users/kaidizhang/Library/Mobile Documents/com~apple~CloudDocs/Desktop/C# DataStructure/C#Exercise/SimpleBoardGame/SimpleBoardGame/bin/Debug/net6.0/SimpleBoardGame
+/Users/kaidizhang/Library/Mobile Documents/com~apple~CloudDocs/Desktop/C# DataStructure/C#Exercise/SimpleBoardGame/SimpleBoardGame/bin/Debug/net6.0/SimpleBoardGame.deps.json
+/Users/kaidizhang/Library/Mobile Documents/com~apple~CloudDocs/Desktop/C# DataStructure/C#Exercise/SimpleBoardGame/SimpleBoardGame/bin/Debug/net6.0/SimpleBoardGame.runtimeconfig.json
+/Users/kaidizhang/Library/Mobile Documents/com~apple~CloudDocs/Desktop/C# DataStructure/C#Exercise/SimpleBoardGame/SimpleBoardGame/bin/Debug/net6.0/SimpleBoardGame.dll
+/Users/kaidizhang/Library/Mobile Documents/com~apple~CloudDocs/Desktop/C# DataStructure/C#Exercise/SimpleBoardGame/SimpleBoardGame/bin/Debug/net6.0/SimpleBoardGame.pdb
+/Users/kaidizhang/Library/Mobile Documents/com~apple~CloudDocs/Desktop/C# DataStructure/C#Exercise/SimpleBoardGame/SimpleBoardGame/obj/Debug/net6.0/SimpleBoardGame.csproj.AssemblyReference.cache
+/Users/kaidizhang/Library/Mobile Documents/com~apple~CloudDocs/Desktop/C# DataStructure/C#Exercise/SimpleBoardGame/SimpleBoardGame/obj/Debug/net6.0/SimpleBoardGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaidizhang/Library/Mobile Documents/com~apple~CloudDocs/Desktop/C# DataStructure/C#Exercise/SimpleBoardGame/SimpleBoardGame/obj/Debug/net6.0/SimpleBoardGame.AssemblyInfoInputs.cache
+/Users/kaidizhang/Library/Mobile Documents/com~apple~CloudDocs/Desktop/C# DataStructure/C#Exercise/SimpleBoardGame/SimpleBoardGame/obj/Debug/net6.0/SimpleBoardGame.AssemblyInfo.cs
+/Users/kaidizhang/Library/Mobile Documents/com~apple~CloudDocs/Desktop/C# DataStructure/C#Exercise/SimpleBoardGame/SimpleBoardGame/obj/Debug/net6.0/SimpleBoardGame.csproj.CoreCompileInputs.cache
+/Users/kaidizhang/Library/Mobile Documents/com~apple~CloudDocs/Desktop/C# DataStructure/C#Exercise/SimpleBoardGame/SimpleBoardGame/obj/Debug/net6.0/SimpleBoardGame.dll
+/Users/kaidizhang/Library/Mobile Documents/com~apple~CloudDocs/Desktop/C# DataStructure/C#Exercise/SimpleBoardGame/SimpleBoardGame/obj/Debug/net6.0/refint/SimpleBoardGame.dll
+/Users/kaidizhang/Library/Mobile Documents/com~apple~CloudDocs/Desktop/C# DataStructure/C#Exercise/SimpleBoardGame/SimpleBoardGame/obj/Debug/net6.0/SimpleBoardGame.pdb
+/Users/kaidizhang/Library/Mobile Documents/com~apple~CloudDocs/Desktop/C# DataStructure/C#Exercise/SimpleBoardGame/SimpleBoardGame/obj/Debug/net6.0/SimpleBoardGame.genruntimeconfig.cache
+/Users/kaidizhang/Library/Mobile Documents/com~apple~CloudDocs/Desktop/C# DataStructure/C#Exercise/SimpleBoardGame/SimpleBoardGame/obj/Debug/net6.0/ref/SimpleBoardGame.dll
