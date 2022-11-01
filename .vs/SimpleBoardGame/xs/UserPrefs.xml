@@ -1,7 +1,7 @@
 ﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{50A0F875-48D8-46D2-86BC-C44C2257CBA8}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="SimpleBoardGame/Program.cs">
     <Files>
-      <File FileName="SimpleBoardGame/Program.cs" Line="183" Column="2" />
+      <File FileName="SimpleBoardGame/Program.cs" Line="341" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -17,7 +17,9 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.SimpleBoardGame PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
